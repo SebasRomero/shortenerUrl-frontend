@@ -56,10 +56,10 @@ function App() {
             <TemporaryDrawer/>
             <div className="border-[#e0ddda]lg:p-16 md:p-8 px-2 py-8 mx-auto flex justify-center items-center w-full">
               <form>
-                <div className="lg:p-8 md:p-4">
+                <div className="lg:p-8 md:p-4 border-[#c5c1c1] border-2 w-full md:w-[300px] lg:w-[500px]">
                   <div className="flex justify-center items-start">
 
-                    <label className="block mb-6 font-semibold text-md md:text-2xl lg:text-2xl ">
+                    <label className="block mb-12 font-semibold text-md md:text-2xl lg:text-2xl ">
                       Shorten your long url
                     </label>
                   </div>

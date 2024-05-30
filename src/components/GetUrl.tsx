@@ -24,7 +24,7 @@ const GetUrl = (props: shortUrl) => {
       <TemporaryDrawer/>
       <div className="flex justify-center items-center w-full p-2">
 
-      <div className="border-[#e0ddda] border-2 mx-auto p-2 lg:p-12 md:p-6">
+      <div className="border-[#e0ddda] border-2 mx-auto p-2 lg:p-12 md:p-6 w-full md:w-[300px] lg:w-[500px]">
         <div className="flex">
           <input
             id="inp"
